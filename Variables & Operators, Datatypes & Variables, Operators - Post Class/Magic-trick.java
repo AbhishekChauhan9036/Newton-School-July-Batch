@@ -1,4 +1,4 @@
-/* Author = Chauhan Abhishek */
+/* Author = Chauhan  Abhishek */
 /* Codechef Id = abhishekchauha */
 /* Codeforces Id = abhishekchauhan903 */
 /* GitHub Id = AbhishekChauhan9036 */
