@@ -1,4 +1,4 @@
-/*---------------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------------*/
 /* Author = Chauhan Abhishek */
 /* Codechef Id = https://www.codechef.com/users/abhishekchauha */
 /* Codeforces Id = https://codeforces.com/profile/abhishekchauhan903 */
@@ -290,14 +290,14 @@ void Bhagwat_Geeta(){
         lli n;
         lli ans=0;
         cin>>n;
-        vector<int> v;
+        vi v;
         for (int i = 1; i <= sqrt(n); i++) {
         if (n % i == 0) {
             if (n / i == i)
                 ans++;
             else {
                 ans++;
-                v.push_back(n / i);
+                v.pb(n / i);
             }
         }
     }
