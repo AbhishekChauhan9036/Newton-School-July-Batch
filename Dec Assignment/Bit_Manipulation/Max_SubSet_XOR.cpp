@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
- // } Driver Code Ends
-// Function to return maximum XOR subset in set[]
 
 #define INT_BITS 32
 class Solution
