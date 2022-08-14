@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+///when you use java then use BufferedReader Class for input
 using namespace std;
 int32_t main() {
 			int t;
