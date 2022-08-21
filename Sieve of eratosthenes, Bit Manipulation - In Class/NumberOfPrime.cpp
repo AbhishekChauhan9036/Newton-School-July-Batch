@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//ll
 int isprime(int num){
    if (num <= 1)
       return 0;
