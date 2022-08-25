@@ -1,4 +1,4 @@
-
+///u can also use Arrays.sort(arr);
 import java.util.Scanner;
 public class Main {
        public static void SelectionSort(int arr[]) {
