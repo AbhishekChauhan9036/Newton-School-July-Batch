@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//XoR
+//XoR...
 int minXOR(int arr[], int n)
 {
 	sort(arr, arr + n);
