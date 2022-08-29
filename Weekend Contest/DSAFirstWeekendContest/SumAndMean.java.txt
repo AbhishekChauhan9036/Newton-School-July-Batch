@@ -1,0 +1,10 @@
+static void SumAndMean(int arr[],int N){
+  int k=0;  
+  for(int i=0;i<N;i++){
+     k+=arr[i];
+  }
+  int p=k;
+  k/=N;
+  System.out.print(p+" "+k);
+
+  }
